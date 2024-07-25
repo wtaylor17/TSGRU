@@ -1,6 +1,8 @@
 # TSGRU
 Implementation of task synchronized GRU network in Pytorch
 
+I am not an author on the paper, but need a pytorch implementation for a project so I am providing one here.
+
 
 Paper citation:
 ```
